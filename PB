@@ -10,7 +10,7 @@ Tired of searching for DAX formulas, troubleshooting Power BI issues, or optimiz
 
 No more endless Googling—just ask the chatbot and get the help you need! 🚀
 🔗 Try it out now:
-👉 Chatbot Link - https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/02/25/15/20250225152707-G1174KMR.json
+👉 Chatbot Link - https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/03/04/15/20250304155035-71KRNGCV.json
 
 💬 What do you think? Would you use an AI chatbot for Power BI? Drop your thoughts in the comments! ⬇
 
